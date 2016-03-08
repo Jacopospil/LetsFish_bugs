@@ -33,4 +33,14 @@ https://spilgames.zendesk.com/agent/tickets/223687
 
 https://spilgames.zendesk.com/agent/tickets/224253
 
-8. New to come...
+8. TSG first informs us that the bug is fixed, without specifying that the user has not been rewarded, than they don't tell us how to compensate the user
+
+https://spilgames.zendesk.com/agent/tickets/224633 
+
+9. We reported that the user had a wrong ranking, TSG just asked more details and he told us generically to compensate the user
+
+https://spilgames.zendesk.com/agent/tickets/224791
+
+
+
+
