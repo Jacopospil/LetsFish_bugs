@@ -32,3 +32,5 @@ https://spilgames.zendesk.com/agent/tickets/223687
 7. No reply to user's request:he cannot play more than 3 duels - gets a message that he played 5 already:
 
 https://spilgames.zendesk.com/agent/tickets/224253
+
+8. New to come...
